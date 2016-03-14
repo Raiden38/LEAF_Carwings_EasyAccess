@@ -6,7 +6,7 @@ $cars = array(
 	'_your_guid_here_' => (object) array(
 		'username' => '_your_email_address_here_',
 		'password' => '_your_password_here_',
-		'country' => NissanConnect::COUNTRY_CANADA
+		'country' => NissanConnect::COUNTRY_CANADA,
 		'tz' => 'Canada/Eastern'
 	),
 );
